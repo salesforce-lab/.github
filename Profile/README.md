@@ -1,2 +1,2 @@
-# .github
-Welcome to Salesforce Lab, a project to share solutions with Salesforce.
+# Salesforce Lab
+Welcome to Salesforce Lab, a organization to share solutions with Salesforce.
